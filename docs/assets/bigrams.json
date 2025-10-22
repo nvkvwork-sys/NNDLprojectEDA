@@ -1,0 +1,608 @@
+{
+  "overall": [
+    {
+      "term": "ever seen",
+      "count": 2703
+    },
+    {
+      "term": "special effects",
+      "count": 2249
+    },
+    {
+      "term": "i've seen",
+      "count": 2218
+    },
+    {
+      "term": "don't know",
+      "count": 2047
+    },
+    {
+      "term": "movie not",
+      "count": 2032
+    },
+    {
+      "term": "even though",
+      "count": 1999
+    },
+    {
+      "term": "one best",
+      "count": 1909
+    },
+    {
+      "term": "i'm not",
+      "count": 1893
+    },
+    {
+      "term": "low budget",
+      "count": 1821
+    },
+    {
+      "term": "no one",
+      "count": 1789
+    },
+    {
+      "term": "not even",
+      "count": 1724
+    },
+    {
+      "term": "film not",
+      "count": 1672
+    },
+    {
+      "term": "looks like",
+      "count": 1640
+    },
+    {
+      "term": "year old",
+      "count": 1573
+    },
+    {
+      "term": "waste time",
+      "count": 1502
+    },
+    {
+      "term": "much better",
+      "count": 1497
+    },
+    {
+      "term": "see movie",
+      "count": 1493
+    },
+    {
+      "term": "good movie",
+      "count": 1437
+    },
+    {
+      "term": "first time",
+      "count": 1416
+    },
+    {
+      "term": "sci fi",
+      "count": 1384
+    },
+    {
+      "term": "watch movie",
+      "count": 1317
+    },
+    {
+      "term": "i've ever",
+      "count": 1291
+    },
+    {
+      "term": "new york",
+      "count": 1283
+    },
+    {
+      "term": "look like",
+      "count": 1275
+    },
+    {
+      "term": "years ago",
+      "count": 1256
+    },
+    {
+      "term": "real life",
+      "count": 1238
+    },
+    {
+      "term": "don't think",
+      "count": 1238
+    },
+    {
+      "term": "not good",
+      "count": 1186
+    },
+    {
+      "term": "high school",
+      "count": 1159
+    },
+    {
+      "term": "not much",
+      "count": 1147
+    },
+    {
+      "term": "pretty good",
+      "count": 1106
+    },
+    {
+      "term": "pretty much",
+      "count": 1100
+    },
+    {
+      "term": "ever made",
+      "count": 1091
+    },
+    {
+      "term": "main character",
+      "count": 1066
+    },
+    {
+      "term": "bad movie",
+      "count": 1046
+    },
+    {
+      "term": "movie ever",
+      "count": 1033
+    },
+    {
+      "term": "watching movie",
+      "count": 1022
+    },
+    {
+      "term": "not bad",
+      "count": 1018
+    },
+    {
+      "term": "not one",
+      "count": 1005
+    },
+    {
+      "term": "want see",
+      "count": 993
+    },
+    {
+      "term": "one thing",
+      "count": 993
+    },
+    {
+      "term": "one worst",
+      "count": 987
+    },
+    {
+      "term": "horror movie",
+      "count": 987
+    },
+    {
+      "term": "well done",
+      "count": 971
+    },
+    {
+      "term": "saw movie",
+      "count": 939
+    },
+    {
+      "term": "see film",
+      "count": 928
+    },
+    {
+      "term": "long time",
+      "count": 927
+    },
+    {
+      "term": "movie like",
+      "count": 923
+    },
+    {
+      "term": "movie one",
+      "count": 916
+    },
+    {
+      "term": "great movie",
+      "count": 915
+    }
+  ],
+  "positive": [
+    {
+      "term": "one best",
+      "count": 1675
+    },
+    {
+      "term": "even though",
+      "count": 1099
+    },
+    {
+      "term": "i've seen",
+      "count": 1090
+    },
+    {
+      "term": "ever seen",
+      "count": 971
+    },
+    {
+      "term": "first time",
+      "count": 960
+    },
+    {
+      "term": "film not",
+      "count": 876
+    },
+    {
+      "term": "don't know",
+      "count": 851
+    },
+    {
+      "term": "movie not",
+      "count": 844
+    },
+    {
+      "term": "new york",
+      "count": 828
+    },
+    {
+      "term": "special effects",
+      "count": 806
+    },
+    {
+      "term": "must see",
+      "count": 777
+    },
+    {
+      "term": "see movie",
+      "count": 764
+    },
+    {
+      "term": "real life",
+      "count": 761
+    },
+    {
+      "term": "no one",
+      "count": 744
+    },
+    {
+      "term": "i'm not",
+      "count": 743
+    },
+    {
+      "term": "years ago",
+      "count": 741
+    },
+    {
+      "term": "good movie",
+      "count": 730
+    },
+    {
+      "term": "well done",
+      "count": 726
+    },
+    {
+      "term": "great movie",
+      "count": 698
+    },
+    {
+      "term": "year old",
+      "count": 680
+    },
+    {
+      "term": "may not",
+      "count": 626
+    },
+    {
+      "term": "sci fi",
+      "count": 620
+    },
+    {
+      "term": "low budget",
+      "count": 594
+    },
+    {
+      "term": "pretty good",
+      "count": 581
+    },
+    {
+      "term": "years later",
+      "count": 565
+    },
+    {
+      "term": "great film",
+      "count": 563
+    },
+    {
+      "term": "watch movie",
+      "count": 563
+    },
+    {
+      "term": "saw movie",
+      "count": 563
+    },
+    {
+      "term": "don't think",
+      "count": 558
+    },
+    {
+      "term": "high school",
+      "count": 554
+    },
+    {
+      "term": "really good",
+      "count": 543
+    },
+    {
+      "term": "long time",
+      "count": 538
+    },
+    {
+      "term": "love story",
+      "count": 531
+    },
+    {
+      "term": "see film",
+      "count": 531
+    },
+    {
+      "term": "ever made",
+      "count": 510
+    },
+    {
+      "term": "highly recommend",
+      "count": 503
+    },
+    {
+      "term": "much better",
+      "count": 488
+    },
+    {
+      "term": "not much",
+      "count": 485
+    },
+    {
+      "term": "black white",
+      "count": 477
+    },
+    {
+      "term": "well worth",
+      "count": 468
+    },
+    {
+      "term": "many people",
+      "count": 465
+    },
+    {
+      "term": "film one",
+      "count": 455
+    },
+    {
+      "term": "worth watching",
+      "count": 453
+    },
+    {
+      "term": "good film",
+      "count": 453
+    },
+    {
+      "term": "i've ever",
+      "count": 453
+    },
+    {
+      "term": "one thing",
+      "count": 434
+    },
+    {
+      "term": "good job",
+      "count": 433
+    },
+    {
+      "term": "every time",
+      "count": 430
+    },
+    {
+      "term": "never seen",
+      "count": 427
+    },
+    {
+      "term": "movie one",
+      "count": 427
+    }
+  ],
+  "negative": [
+    {
+      "term": "ever seen",
+      "count": 1732
+    },
+    {
+      "term": "special effects",
+      "count": 1443
+    },
+    {
+      "term": "waste time",
+      "count": 1431
+    },
+    {
+      "term": "not even",
+      "count": 1380
+    },
+    {
+      "term": "looks like",
+      "count": 1234
+    },
+    {
+      "term": "low budget",
+      "count": 1227
+    },
+    {
+      "term": "don't know",
+      "count": 1196
+    },
+    {
+      "term": "movie not",
+      "count": 1188
+    },
+    {
+      "term": "i'm not",
+      "count": 1150
+    },
+    {
+      "term": "i've seen",
+      "count": 1128
+    },
+    {
+      "term": "no one",
+      "count": 1045
+    },
+    {
+      "term": "much better",
+      "count": 1009
+    },
+    {
+      "term": "one worst",
+      "count": 953
+    },
+    {
+      "term": "look like",
+      "count": 943
+    },
+    {
+      "term": "bad movie",
+      "count": 902
+    },
+    {
+      "term": "even though",
+      "count": 900
+    },
+    {
+      "term": "year old",
+      "count": 893
+    },
+    {
+      "term": "not good",
+      "count": 843
+    },
+    {
+      "term": "i've ever",
+      "count": 838
+    },
+    {
+      "term": "film not",
+      "count": 796
+    },
+    {
+      "term": "sci fi",
+      "count": 764
+    },
+    {
+      "term": "watch movie",
+      "count": 754
+    },
+    {
+      "term": "see movie",
+      "count": 729
+    },
+    {
+      "term": "worst movie",
+      "count": 714
+    },
+    {
+      "term": "movie ever",
+      "count": 709
+    },
+    {
+      "term": "good movie",
+      "count": 707
+    },
+    {
+      "term": "really bad",
+      "count": 707
+    },
+    {
+      "term": "bad acting",
+      "count": 687
+    },
+    {
+      "term": "pretty much",
+      "count": 683
+    },
+    {
+      "term": "don't think",
+      "count": 680
+    },
+    {
+      "term": "not bad",
+      "count": 669
+    },
+    {
+      "term": "horror movie",
+      "count": 668
+    },
+    {
+      "term": "not much",
+      "count": 662
+    },
+    {
+      "term": "watching movie",
+      "count": 660
+    },
+    {
+      "term": "main character",
+      "count": 652
+    },
+    {
+      "term": "want see",
+      "count": 625
+    },
+    {
+      "term": "not one",
+      "count": 615
+    },
+    {
+      "term": "high school",
+      "count": 605
+    },
+    {
+      "term": "there's no",
+      "count": 594
+    },
+    {
+      "term": "movie bad",
+      "count": 582
+    },
+    {
+      "term": "ever made",
+      "count": 581
+    },
+    {
+      "term": "make movie",
+      "count": 577
+    },
+    {
+      "term": "whole movie",
+      "count": 563
+    },
+    {
+      "term": "one thing",
+      "count": 559
+    },
+    {
+      "term": "movie like",
+      "count": 555
+    },
+    {
+      "term": "movie made",
+      "count": 549
+    },
+    {
+      "term": "not funny",
+      "count": 549
+    },
+    {
+      "term": "no sense",
+      "count": 525
+    },
+    {
+      "term": "pretty good",
+      "count": 525
+    },
+    {
+      "term": "horror film",
+      "count": 524
+    }
+  ]
+}
