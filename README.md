@@ -1,36 +1,40 @@
 # IMDB Reviews EDA (GitHub Pages)
 
-Simple static site showing exploratory data analysis for the IMDB reviews dataset.
+Static, client-side exploratory data analysis for the IMDB reviews dataset. No backend or build step required. Works on GitHub Pages.
 
-## Quickstart
+## Features
+- Word frequency plots for positive vs. negative reviews (stopwords removed)
+- Average review length (overall, positive, negative)
+- Sentiment distribution (counts)
+- Upload your own CSV or use the bundled `IMDB Dataset.csv`
 
-1. Generate assets:
+## Expected CSV format
+- Headers: at least `review` and `sentiment`
+  - `sentiment` values: `positive` or `negative`
+- Other header names are partially supported (`text`/`content` for review; `label` for sentiment) but prefer the above.
 
-```bash
-python3 src/generate_eda.py --input "IMDB Dataset.csv" --outdir docs/assets --top_k 50
-```
-
-2. Open the site locally by serving `docs/` (or open `docs/index.html` directly):
-
-```bash
-cd docs && python3 -m http.server 8000
-# Visit http://localhost:8000
-```
+## Local usage
+1. Ensure the dataset file is present at the project root as `IMDB Dataset.csv` (or use Upload).
+2. Open `index.html` directly in your browser, or start a local server:
+   
+   ```bash
+   python3 -m http.server 8000
+   ```
+   
+   Then visit `http://localhost:8000`.
 
 ## Publish on GitHub Pages
-
-- Commit this repository and push to GitHub.
-- In repo Settings → Pages, set Source = Deploy from a branch, Branch = `main`, Folder = `/docs`.
-- Your site will be available at `https://<your-username>.github.io/<repo-name>/`.
-
-## Contents
-
-- `src/generate_eda.py`: EDA script that reads the CSV and produces JSON assets.
-- `docs/`: static site with `index.html`, `styles.css`, `main.js`, and `assets/` outputs.
-- Visualizations built with Vega-Lite via CDN.
+1. Create a new GitHub repo and push these files.
+2. Commit `.nojekyll` at the repo root to disable Jekyll processing.
+3. In GitHub, go to Settings → Pages:
+   - Source: `Deploy from a branch`
+   - Branch: `main` (or `master`), folder `/ (root)`
+4. Place `IMDB Dataset.csv` at the repository root so the app can load it, or use the Upload button in the UI.
 
 ## Notes
+- All parsing is client-side using Papa Parse; charts are rendered with Chart.js.
+- Tokenization: lowercase, strip URLs/non-letters, split on whitespace, remove common English stopwords.
+- For large CSVs, loading is limited by the browser; consider sampling if performance is slow.
 
-- Tokenizer removes HTML, lowercases, keeps alphabetic tokens; negations kept.
-- Log-odds highlights words more indicative of positive/negative sentiment.
-- Larger `top_k` means bigger JSON and slower rendering.
+## License
+MIT
