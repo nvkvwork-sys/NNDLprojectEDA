@@ -70,7 +70,7 @@ export default function SentimentAnalysis() {
           setData(parsedData);
           setLoading(false);
         },
-        error: (error) => {
+        error: (error: any) => {
           console.error('Error parsing CSV:', error);
           setLoading(false);
         }
